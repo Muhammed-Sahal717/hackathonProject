@@ -1,0 +1,17 @@
+# Dependencies
+/node_modules
+/client/node_modules
+/server/node_modules
+
+# Environment variables - VERY IMPORTANT
+.env
+/server/.env
+/client/.env
+
+# Build folder for React
+/client/build
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
